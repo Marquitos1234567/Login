@@ -65,9 +65,8 @@ Controla la lógica del formulario:
 ## 📷 Vista Previa
 
 Formulario validando si eres humano.
-![image](https://github.com/user-attachments/assets/4f8a59ca-a22d-4396-98ee-caf78bc70dfc)  
+![image](https://github.com/user-attachments/assets/4f8a59ca-a22d-4396-98ee-caf78bc70dfc)    
 Una vez valida que eres humano podrás ingresar campos, al hacer esto se habilitará el boton de continuar
 ![image](https://github.com/user-attachments/assets/0bf44f75-c67a-4c24-864c-dc5ff3032b12)
-
 
 ---
